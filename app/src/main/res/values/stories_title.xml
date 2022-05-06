@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="stories_title">
+            <item>Hardisk</item>
+            <item>Processor</item>
+            <item>Heatsink</item>
+            <item>Power Supplay</item>
+            <item>Motherboard</item>
+        </string-array>
+</resources>
